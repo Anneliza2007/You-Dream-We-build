@@ -1,0 +1,5 @@
+{
+  "name": "Personal Career Navigator",
+  "description": "An agentic AI co-pilot that analyzes profiles, identifies real-world skill gaps using live market data, and generates adaptive 30-day learning roadmaps.",
+  "requestFramePermissions": []
+}
